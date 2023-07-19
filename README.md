@@ -2,6 +2,8 @@
 title: Media Capture
 description: Capture audio, video, and images.
 ---
+
+All credit: https://github.com/apache/cordova-plugin-media-capture & https://github.com/ochakov/cordova-plugin-media-capture/tree/master
 <!--
 # license: Licensed to the Apache Software Foundation (ASF) under one
 #         or more contributor license agreements.  See the NOTICE file
